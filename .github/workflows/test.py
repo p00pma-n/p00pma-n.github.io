@@ -1,4 +1,4 @@
-aimport math, sys;
+import math, sys;
 
 def example1():
     ####This is a long comment. This should be wrapped to fit within 72 characters.
