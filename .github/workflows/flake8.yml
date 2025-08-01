@@ -31,4 +31,3 @@ jobs:
       with:
         name: flake8-report
         path: flake8_report.txt
-        
