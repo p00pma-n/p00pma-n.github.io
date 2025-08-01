@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 #ソフトウェア工学のまとめ
 ##20TI008 伊藤一馬 
 ###これまでのソフトウェア工学では、
